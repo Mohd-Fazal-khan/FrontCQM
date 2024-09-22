@@ -1,0 +1,175 @@
+.s{
+    right: 0px;
+    bottom: 10px;
+    text-align: right;
+    height: 4.9vh;
+    background-image: linear-gradient(to right, transparent, black);
+
+}
+.text-justify{
+    text-align: justify;
+}
+
+.vh-93{
+    height: 93vh;
+}
+.vh-7{
+    height: 7vh;
+}
+.scroll{
+    overflow:auto;
+}
+.scroll::-webkit-scrollbar{
+    display: none;
+}
+
+.custom-heading{
+    font-size: 9vh;
+    margin-top: 8%;
+}
+.f,.ab{
+    background-color: black;
+    
+}
+.liv{
+    background: linear-gradient(to bottom, black 70%, #ec3237 30%);
+}
+.custom-para{
+    font-size: 2.5vh;
+}
+.online{
+    background-color: #ec3237;
+}
+.o{
+    height: 10vh;
+}
+.b{
+    border-radius: 40px;
+    background-color: #ec3237;
+    font-size: 2.7vh;
+    color: white;
+}
+.b:hover{
+    background-color: white;
+    color: #ec3237;
+}
+.cn{
+    color: white;
+}
+.cn:hover{
+    color: #ec3237;
+}
+.fk{
+    height: 82vh;
+}
+.ab{
+    border-bottom: 5px solid white;
+}
+.l{
+    border-right: 5px solid white;
+    background-color: black;
+}
+.jk{
+    /* background-image:url('./component/img/back.jpg') ;
+    /* background-repeat: no-repeat;
+  background-attachment: fixed; */
+  background-size: cover; 
+  background-image: url('http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg');
+}
+.transparent-bg{
+    box-shadow: 0 0 15px rgba(0, 0, 0, .5);
+    background: rgba(255, 250, 250, 0.2);
+    border-radius: 10px;
+    /* -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 1px;    */
+}
+
+/*  today*/
+.ug{
+    background-image: url('http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+    }
+.ud{
+    background-color: rgba(0,0,0,0.5) !important;
+}
+.fb{
+    color: black;
+}
+.x{
+    background-color: #ec3237;
+    color: white;
+    /* height: 10%;
+    width: 30%; */
+}
+.xt{
+    margin-left: 5%;
+    background-color: #212121;
+    color: white;
+    /* height: 10%;
+    width: 30%; */
+}
+.fs{
+    font-size: 42px;
+}
+.pb{
+    font-size: 18px;
+}
+.bb{
+    border: 1px solid #212121;
+    
+}
+.bb:hover{
+    background-color: #ec3237;
+    color: white;
+}
+.hb{
+    color: white;
+}
+.tb{
+    font-size: 10px;
+}
+.fbg{
+    background-color: black;
+}
+.stat-box{
+    border-right:1px solid white ;
+    border-bottom: 1px solid white;
+    
+}
+.stat-box:last-child {
+    border-right: none;
+}
+.icon{
+    font-size: 20px;
+}
+.ng{
+    height:60vh;
+    background-image: url('./component/img/contact-banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* height: 100%; */
+    font-family: 'Numans', sans-serif;
+}
+.mg{
+    height: 90vh;
+}
+.cb{
+    background-color: grey
+}
+.k{
+    color: white;
+}
+.k:hover{
+    color: #ec3237;
+}
+.ik{
+    color: #ec3237;
+    background-color: white
+}
+.ik:hover{
+    background-color: #ec3237;
+    color: white
+}
